@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohitSingh-Rajput
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Coding
-- 📫 How to reach me ...My discord - Mr.A #4889
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning JS
+- 📫 How to reach me My discord - Mr.A #4889
 
 <!---
 MohitSingh-Rajput/MohitSingh-Rajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
