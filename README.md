@@ -65,8 +65,8 @@ Outside of code, I'm part of the NCC Air Wing, which has given me an interest in
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitSingh-Rajput&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitSingh-Rajput&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
