@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Mohit Kumar Singh] 👋</h1>
+<h1 align="center">Hey, I'm Mohit Kumar Singh 👋</h1>
 
 <p align="center">
   B.Tech IT undergraduate &nbsp;•&nbsp; NCC Air Wing &nbsp;•&nbsp; Builder of things that solve real problems
