@@ -1,18 +1,18 @@
 <h1 align="center">Hey, I'm Mohit Kumar Singh 👋</h1>
 
 <p align="center">
-  B.Tech IT undergraduate &nbsp;•&nbsp; NCC Air Wing &nbsp;•&nbsp; Builder of things that solve real problems
+  B.Tech IT undergraduate &nbsp;•&nbsp; NCC Air Wing Cadet &nbsp;•&nbsp; Builder of things that solve real problems
 </p>
 
 ---
 
 ## About me
 
-I'm a first-year B.Tech IT student based in India with a background in Python from school — file handling, problem solving, scripting — and currently deepening my understanding of C through my semester coursework.
+I'm a second-year B.Tech IT student from India with a background in Python, file handling, problem solving, scripting and currently deepening my understanding of CPP through my semester coursework.
 
-I'm drawn to projects that have a practical purpose: if something in my life is annoying or inefficient, my instinct is to code a solution for it. That habit is what got me into Discord bots and automation, and it shapes how I approach learning — I'd rather build something real than follow a tutorial indefinitely.
+I'm drawn to projects that have a practical purpose: if something in my life is annoying or inefficient, my instinct is to code a solution for it. I'd rather build something real than follow a tutorial indefinitely.
 
-Outside of code, I'm part of the NCC Air Wing, which has given me an interest in defence technology and systems that operate under real constraints.
+Outside of code, I'm part of the NCC, which has given me an interest in defence technology and systems that operate under real constraints.
 
 ---
 
@@ -46,7 +46,7 @@ Outside of code, I'm part of the NCC Air Wing, which has given me an interest in
 
 ## Background
 
-- **Education** — B.Tech Information Technology, Year 1 (graduating 2029)
+- **Education** — B.Tech Information Technology, Year 2 (graduating 2029)
 - **NCC** — Air Wing cadet, which sparked a genuine interest in defence technology and systems engineering
 - **Python** — learned through school with a focus on problem solving and file handling; now expanding into OOP and backend systems
 - **C** — current semester language; learning it for what it teaches about memory and how computers actually work
